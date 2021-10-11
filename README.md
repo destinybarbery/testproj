@@ -1,2 +1,2 @@
 # testproj
-https://github.com/destinybarbery/testproj.git
+https://destinybarbery.github.io/testproj/
